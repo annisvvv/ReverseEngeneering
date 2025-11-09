@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "x86/x86 basic architecture/Basic.md",
+                "file": "x86/Registers/6- Flags.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Basic"
+              "title": "6- Flags"
             }
           },
           {
@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "x86/Registers/4- Instruction pointer register.md",
+                "file": "GNU project debugger (GDB))/Tools.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4- Instruction pointer register"
+              "title": "Tools"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,16 +183,22 @@
   },
   "active": "bdb15f3f5df00351",
   "lastOpenFiles": [
+    "ARM-32",
+    "GNU project debugger (GDB))/Debugging flow.md",
+    "GNU project debugger (GDB))/Tools.md",
+    "GNU project debugger (GDB))/Documentation.md",
+    "x86/CMOV instructions.md",
     "x86/Registers/6- Flags.md",
-    "x86/Registers/5- Control registers.md",
+    "x86/x86 basic architecture/Basic.md",
     "x86/Registers/4- Instruction pointer register.md",
+    "x86/Memory regions/Heap.md",
+    "GNU project debugger (GDB))",
+    "x86/Memory regions/Stack.md",
+    "x86/Registers/5- Control registers.md",
     "x86/Registers/3- Segment registers.md",
     "x86/Registers/2- General purpose registers.md",
     "x86/Registers/1- Intro.md",
-    "x86/Memory regions/Stack.md",
-    "x86/Memory regions/Heap.md",
     "x86/Memory regions",
-    "x86/x86 basic architecture/Basic.md",
     "x86/x86 basic architecture",
     "x86",
     "x86/Registers",
