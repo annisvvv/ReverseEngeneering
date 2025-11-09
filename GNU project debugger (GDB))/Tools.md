@@ -1,0 +1,1 @@
+`set $eip = <address>` jump anywhere inside of any binary within the debugger
