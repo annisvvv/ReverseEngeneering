@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "intel/r-mX addressing.md",
+                "file": "intel/CMOV instructions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "r-mX addressing"
+              "title": "CMOV instructions"
             }
           },
           {
@@ -182,6 +182,8 @@
   },
   "active": "25727e73d09b3716",
   "lastOpenFiles": [
+    "intel/r-mX addressing.md",
+    "intel/CMOV instructions.md",
     "intel/32bit/Registers/Control registers.md",
     "intel/64bit",
     "intel/32bit/Registers/Flags.md",
@@ -196,8 +198,6 @@
     "Computers/Registers/Control registers.md",
     "Computers/Registers/Flags.md",
     "intel/32bit/x86 basic architecture/Basic.md",
-    "intel/32bit/CMOV instructions.md",
-    "intel/r-mX addressing.md",
     "intel/x86-x64 general purpose registers.md",
     "Computers/Memory regions/Stack.md",
     "Computers/Registers",
