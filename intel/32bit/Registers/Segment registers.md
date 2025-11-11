@@ -1,5 +1,3 @@
-# Segment registers
-Segment registers hold the starting address of memory segments which are distinct blocks of memory used to organize a program's code, data, and stack. The processor combines the 16-bit value in a segment register with a 16-bit offset to calculate a 20-bit physical address. an offset is an integer value representing the distance from a starting point to a specific location, typically within a data structure like an array or a file.
 
 | Seg register | function                                                                                                                                                            |
 | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

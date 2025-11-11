@@ -1,0 +1,1 @@
+A **general-purpose register** is a **type of register** — one that can hold _any_ kind of data the CPU needs to work with (integers, pointers, counters, etc.). It’s “general-purpose” because it’s not restricted to a single function.

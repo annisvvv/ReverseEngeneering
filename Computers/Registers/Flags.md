@@ -1,0 +1,1 @@
+Flags are critical to assembly language applications as they are a check to verify each programs functions successful execution.

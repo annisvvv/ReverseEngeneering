@@ -1,3 +1,1 @@
 A register is a small, high-speed (faster than ram) storage location built directly into the CPU that holds data the processor needs to access immediately like numbers, memory addresses, or control information.. It acts as a temporary workspace for data, instructions, or memory addresses that are currently being processed, allowing for faster processing than accessing main memory.
-
-The focus is on 32bits.

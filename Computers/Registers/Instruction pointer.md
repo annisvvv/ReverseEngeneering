@@ -1,0 +1,1 @@
+The xIP register is the most important register, it keeps track of the next instruction code to execute. having control over that pointer gives complete control over the program.

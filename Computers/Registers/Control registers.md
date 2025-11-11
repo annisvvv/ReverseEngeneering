@@ -1,0 +1,1 @@
+used to determine the operating mode of the CPU and the characteristics of the current executing task. So, these registers define **how** the processor behaves, not just what data it processes.

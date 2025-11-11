@@ -66,7 +66,7 @@ Once we get the instructions for **int addMe(int a, int b)**, the function may n
 
 **int addMe(int a, int b)** can access the arguments passed to it from **int main(void)** because the code in **int main(void)** places the arguments just as **int addMe(int a, int b)** expects it. 
 
-FP is the frame pointer and points to the location where the stack pointer was just before **int addMe(int a, int b)** moved the stack pointer or SP for int **addMe(int a, int b)**’s own local variables. (register `EBP` or `RBP` on x86 CPUs) 
+For intel CPU's FP is the frame pointer and points to the location where the stack pointer was just before **int addMe(int a, int b)** moved the stack pointer or SP for int **addMe(int a, int b)**’s own local variables. (register `EBP` or `RBP` on x86 CPUs) 
 
 ```
          ↑ (higher memory)
@@ -95,3 +95,5 @@ Once it is time to exit **int addMe(int a, int b)**, the stack pointer is set to
 In sum, the stack is a special region of memory that stores temporary variables created by each function including main. The stack is a LIFO which is last in, first out data structure which is managed and optimized by the CPU closely. Every time a function declares a new variable it is pushed onto the stack. Every time a function exists, all of the variables pushed onto the stack by that function are freed or deleted. Once a stack variable is freed, that region of memory becomes available for other stack variables.
 
 When a function exits all of its variables are popped off the stack and lost forever. The stack variables are local. The stack grows and shrinks as functions push and pop local variables.
+
+![[Pasted image 20251111044406.png]]
