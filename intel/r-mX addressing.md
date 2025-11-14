@@ -9,3 +9,5 @@ in intel syntaxes square brackets '[]' means to treat the value within a memory 
 		for y of 1 byte (0-2^8) or 4 bytes (0-2^32)
 
 "[base + index * scale + displacement]" has natural applicability to multidimensional array indexing, arrays of structs, ect
+
+before the r-mX we can see things like `dword ptr`, `qword ptr`, `word ptr` ect this gives the size of the data being moved and written to memory

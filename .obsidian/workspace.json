@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Assembly/instructions/ADD and SUB.md",
-                "mode": "preview",
+                "file": "intel/r-mX addressing.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ADD and SUB"
+              "title": "r-mX addressing"
+            }
+          },
+          {
+            "id": "d8980282cc16eb98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Assembly/instructions/MOVZX - MOVSX - MOVSXD.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MOVZX - MOVSX - MOVSXD"
             }
           },
           {
@@ -35,7 +49,8 @@
               "title": "Control registers"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -67,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rbp",
+                "query": "rip",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -180,18 +195,32 @@
       "bases:Create new base": false
     }
   },
-  "active": "25727e73d09b3716",
+  "active": "d8980282cc16eb98",
   "lastOpenFiles": [
+    "intel/Untitled.md",
+    "Assembly/instructions/MOVZX - MOVSX - MOVSXD.md",
+    "Pasted image 20251114062301.png",
+    "Assembly/instructions/IMUL signed multiply.md",
+    "zfiles/Pasted image 20251114055614.png",
+    "zfiles/Pasted image 20251114055601.png",
+    "zfiles/Pasted image 20251114055427.png",
+    "zfiles/Pasted image 20251114055311.png",
+    "zfiles/Pasted image 20251114055018.png",
+    "C language/Data types.md",
+    "intel/Alignment padding.md",
+    "C language",
+    "Assembly/instructions/CALL.md",
     "intel/32bit/Registers/General purpose registers.md",
+    "intel/32bit/Registers/Segment registers.md",
+    "intel/32bit/Registers/Instruction pointer register.md",
+    "intel/32bit/Registers/Control registers.md",
+    "intel/32bit/Registers/Flags.md",
+    "Assembly/instructions/ADD and SUB.md",
     "Assembly/intel vs AT&T.md",
     "Computers/Memory regions/Stack.md",
     "intel/x86 Architecture Overview.pdf",
     "intel/NASM x64 Assembly.pdf",
-    "intel/32bit/Registers/Instruction pointer register.md",
-    "intel/32bit/Registers/Segment registers.md",
     "intel/CMOV instructions.md",
-    "intel/32bit/Registers/Flags.md",
-    "intel/32bit/Registers/Control registers.md",
     "intel/32bit/x86 basic architecture/Basic.md",
     "intel/x86-x64 general purpose registers.md",
     "intel/r-mX addressing.md",
@@ -205,23 +234,14 @@
     "Computers/Registers/Flags.md",
     "Computers/Registers",
     "Assembly/instructions/Most used assembly instruction.md",
-    "Assembly/instructions/ADD and SUB.md",
-    "Assembly/instructions/CALL.md",
     "Assembly/instructions/PUSH and POP.md",
-    "Assembly/instructions/MOV.md",
     "Assembly/instructions",
     "zfiles/Pasted image 20251111055501.png",
-    "Computers/Memory regions/Heap.md",
     "zfiles/Pasted image 20251111051436.png",
     "zfiles/Pasted image 20251111051415.png",
     "intel",
     "zfiles/Pasted image 20251111044406.png",
     "zfiles",
-    "Assembly",
-    "zfiles/Pasted image 20251111043654.png",
-    "zfiles/Pasted image 20251111043232.png",
-    "GNU project debugger (GDB))/Tools.md",
-    "ARM-32",
-    "GNU project debugger (GDB))/Debugging flow.md"
+    "Assembly"
   ]
 }
