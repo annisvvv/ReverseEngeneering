@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "intel/64bit/Registry.md",
+                "file": "Assembly/instructions/IMUL and MUL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Registry"
+              "title": "IMUL and MUL"
             }
           },
           {
@@ -107,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 284.5
   },
   "right": {
     "id": "a76b29b7854bd383",
@@ -198,10 +198,13 @@
   "active": "d8980282cc16eb98",
   "lastOpenFiles": [
     "Assembly/instructions/MOVZX - MOVSX - MOVSXD.md",
+    "Pasted image 20251116131456.png",
+    "Assembly/instructions/IMUL and MUL.md",
+    "Hex/How to know if a hex is negative or positive.md",
+    "Hex",
     "intel/64bit/Registry.md",
     "intel/Untitled.md",
     "Pasted image 20251114062301.png",
-    "Assembly/instructions/IMUL signed multiply.md",
     "zfiles/Pasted image 20251114055614.png",
     "zfiles/Pasted image 20251114055601.png",
     "zfiles/Pasted image 20251114055427.png",
@@ -232,16 +235,12 @@
     "Computers/Registers/Instruction pointer.md",
     "Computers/Registers/General purpose registers GRP.md",
     "Computers/Registers/Control registers.md",
-    "Computers/Registers/Flags.md",
     "Computers/Registers",
-    "Assembly/instructions/Most used assembly instruction.md",
     "Assembly/instructions",
     "zfiles/Pasted image 20251111055501.png",
     "zfiles/Pasted image 20251111051436.png",
     "zfiles/Pasted image 20251111051415.png",
     "intel",
-    "zfiles/Pasted image 20251111044406.png",
-    "zfiles",
-    "Assembly"
+    "zfiles"
   ]
 }
