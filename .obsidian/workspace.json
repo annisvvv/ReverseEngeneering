@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Assembly/instructions/IMUL and MUL.md",
+                "file": "intel/Full registers map.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IMUL and MUL"
+              "title": "Full registers map"
             }
           },
           {
@@ -107,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284.5
+    "width": 284.5,
+    "collapsed": true
   },
   "right": {
     "id": "a76b29b7854bd383",
@@ -197,13 +198,16 @@
   },
   "active": "d8980282cc16eb98",
   "lastOpenFiles": [
+    "intel/32bit/Registers/General purpose registers.md",
+    "intel/Full registers map.md",
+    "intel/32bit/Registers/Flags.md",
+    "intel/32bit/Registers/Control registers.md",
+    "Assembly/instructions/IMUL and MUL.md",
     "Assembly/instructions/MOVZX - MOVSX - MOVSXD.md",
     "Pasted image 20251116131456.png",
-    "Assembly/instructions/IMUL and MUL.md",
     "Hex/How to know if a hex is negative or positive.md",
     "Hex",
     "intel/64bit/Registry.md",
-    "intel/Untitled.md",
     "Pasted image 20251114062301.png",
     "zfiles/Pasted image 20251114055614.png",
     "zfiles/Pasted image 20251114055601.png",
@@ -214,11 +218,8 @@
     "intel/Alignment padding.md",
     "C language",
     "Assembly/instructions/CALL.md",
-    "intel/32bit/Registers/General purpose registers.md",
     "intel/32bit/Registers/Segment registers.md",
     "intel/32bit/Registers/Instruction pointer register.md",
-    "intel/32bit/Registers/Control registers.md",
-    "intel/32bit/Registers/Flags.md",
     "Assembly/instructions/ADD and SUB.md",
     "Assembly/intel vs AT&T.md",
     "Computers/Memory regions/Stack.md",
