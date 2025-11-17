@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "intel/Full registers map.md",
+                "file": "Microsoft/links.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Full registers map"
+              "title": "links"
             }
           },
           {
@@ -107,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284.5,
-    "collapsed": true
+    "width": 284.5
   },
   "right": {
     "id": "a76b29b7854bd383",
@@ -198,14 +197,17 @@
   },
   "active": "d8980282cc16eb98",
   "lastOpenFiles": [
-    "intel/32bit/Registers/General purpose registers.md",
+    "Microsoft/Shadow space.md",
+    "Microsoft/links.md",
     "intel/Full registers map.md",
+    "Microsoft",
+    "Hex/How to know if a hex is negative or positive.md",
+    "intel/32bit/Registers/General purpose registers.md",
     "intel/32bit/Registers/Flags.md",
     "intel/32bit/Registers/Control registers.md",
     "Assembly/instructions/IMUL and MUL.md",
     "Assembly/instructions/MOVZX - MOVSX - MOVSXD.md",
     "Pasted image 20251116131456.png",
-    "Hex/How to know if a hex is negative or positive.md",
     "Hex",
     "intel/64bit/Registry.md",
     "Pasted image 20251114062301.png",
@@ -235,13 +237,11 @@
     "Computers/Registers/Intro.md",
     "Computers/Registers/Instruction pointer.md",
     "Computers/Registers/General purpose registers GRP.md",
-    "Computers/Registers/Control registers.md",
     "Computers/Registers",
     "Assembly/instructions",
     "zfiles/Pasted image 20251111055501.png",
     "zfiles/Pasted image 20251111051436.png",
     "zfiles/Pasted image 20251111051415.png",
-    "intel",
-    "zfiles"
+    "intel"
   ]
 }
