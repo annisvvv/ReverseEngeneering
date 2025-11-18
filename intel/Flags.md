@@ -2,6 +2,7 @@ Flags are critical to assembly language applications as they are a check to veri
 
 We are dealing with 32-bit assembly to which a single 32-bit register which contains a group of status, control and system flags exist. This register is called the EFLAGS register as it contains 32 bits of information that are mapped to represent specific flags of information.
 
+![[Pasted image 20251118132605.png]]
 #### Status flag
 | Status flags | CF  | Carry flag    |
 | ------------ | --- | ------------- |
