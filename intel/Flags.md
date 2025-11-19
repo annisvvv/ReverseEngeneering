@@ -58,4 +58,8 @@ The virtual interrupt pending flag is used when the processor is operating in vi
 
 The ID flag indicates whether the processor supports the CPUID instruction.
 
+# Note
+
+![[Pasted image 20251119045145.png]]
+
 

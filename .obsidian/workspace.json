@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Assembly/instructions/JCC.md",
+                "file": "Assembly/instructions/AND - OR - XOR - NOT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JCC"
+              "title": "AND - OR - XOR - NOT"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rip",
+                "query": "signed",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -168,6 +168,19 @@
   },
   "active": "d8980282cc16eb98",
   "lastOpenFiles": [
+    "C language/Bitwise operators.md",
+    "Assembly/instructions/AND - OR - XOR - NOT.md",
+    "Assembly/instructions/JCC.md",
+    "C language/switch statement.md",
+    "Hex/How to know if a hex is negative or positive.md",
+    "intel/CMOV instructions.md",
+    "Microsoft/Shadow space.md",
+    "Microsoft/Calling conventions.md",
+    "C language/Control flow.md",
+    "C language/Data types.md",
+    "intel/Flags.md",
+    "zfiles/Pasted image 20251119045145.png",
+    "zfiles/Pasted image 20251119043956.png",
     "Assembly/instructions/aaMost used assembly instruction.md",
     "Assembly/intel vs AT&T.md",
     "Assembly/instructions/PUSH and POP.md",
@@ -175,7 +188,6 @@
     "Assembly/instructions/MOV.md",
     "Assembly/instructions/LEA.md",
     "Assembly/instructions/JMP.md",
-    "Assembly/instructions/JCC.md",
     "Assembly/instructions/IMUL and MUL.md",
     "Assembly/instructions/CMP.md",
     "Assembly/instructions/CALL.md",
@@ -184,31 +196,19 @@
     "Pasted image 20251118133221.png",
     "zfiles/Pasted image 20251118133015.png",
     "zfiles/Pasted image 20251118132931.png",
-    "intel/Flags.md",
     "zfiles/Pasted image 20251118132605.png",
     "intel/Alignment padding.md",
-    "intel/CMOV instructions.md",
     "intel/Full registers map.md",
     "intel/NASM x64 Assembly.pdf",
     "intel/r-mX addressing.md",
     "intel/x86 Architecture Overview.pdf",
     "intel/x86-x64 general purpose registers.md",
-    "intel/32bit/Registers/Instruction pointer register.md",
-    "intel/32bit/Registers/General purpose registers.md",
-    "intel/32bit/Registers/Control registers.md",
     "intel/Architectures",
-    "intel/32bit/Registers/Segment registers.md",
-    "intel/64bit/Registry.md",
-    "C language/Control flow.md",
-    "Microsoft/Calling conventions.md",
-    "Microsoft/Shadow space.md",
     "Microsoft",
     "Pasted image 20251116131456.png",
     "Hex",
     "Pasted image 20251114062301.png",
     "zfiles/Pasted image 20251114055614.png",
-    "zfiles/Pasted image 20251114055601.png",
-    "zfiles/Pasted image 20251114055427.png",
     "C language",
     "intel/64bit",
     "Computers",

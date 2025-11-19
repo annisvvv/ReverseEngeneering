@@ -1,0 +1,1 @@
+this means using the and, or, xor and not operators in bits. [[AND - OR - XOR - NOT]]

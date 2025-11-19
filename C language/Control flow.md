@@ -1,14 +1,14 @@
 there is two form of control flow:
 ## conditional 
-go to some where if a condition is met. like if statement, loops, switches.
+go to some where if a condition is met. like if statement, loops, switches. 
 
-if statements manifest with [[JCC]] and [[CMP]]
+- [[switch statement]]
+- if statements manifest with [[JCC]] and [[CMP]]
 ## unconditional 
 always go somewhere like functions call, goto, exceptions, interrupts.
 
-functions calls manifest themselves as call/ret in asm [[CALL]]
-
-goto manifests itself as jump in asm [[JMP]]
+- functions calls manifest themselves as call/ret in asm [[CALL]]
+- goto manifests itself as jump in asm [[JMP]]
 
 goto example:
 ```
