@@ -1,0 +1,1 @@
+RISC-V ISAs define a word as 32bits a half word 16bits and a double word as 64bits

@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "77104a082ca1ad7f",
+        "id": "43ece2a6d1418ff9",
         "type": "tabs",
         "children": [
           {
-            "id": "d8980282cc16eb98",
+            "id": "c40d04967ae4d077",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Assembly/instructions/AND - OR - XOR - NOT.md",
+                "file": "RISC v/instruction/mv.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AND - OR - XOR - NOT"
+              "title": "mv"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "signed",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 270.5
   },
   "right": {
     "id": "a76b29b7854bd383",
@@ -166,53 +166,53 @@
       "bases:Create new base": false
     }
   },
-  "active": "d8980282cc16eb98",
+  "active": "c40d04967ae4d077",
   "lastOpenFiles": [
-    "C language/Bitwise operators.md",
-    "Assembly/instructions/AND - OR - XOR - NOT.md",
-    "Assembly/instructions/JCC.md",
-    "C language/switch statement.md",
-    "Hex/How to know if a hex is negative or positive.md",
-    "intel/CMOV instructions.md",
-    "Microsoft/Shadow space.md",
-    "Microsoft/Calling conventions.md",
-    "C language/Control flow.md",
-    "C language/Data types.md",
-    "intel/Flags.md",
-    "zfiles/Pasted image 20251119045145.png",
-    "zfiles/Pasted image 20251119043956.png",
-    "Assembly/instructions/aaMost used assembly instruction.md",
-    "Assembly/intel vs AT&T.md",
-    "Assembly/instructions/PUSH and POP.md",
-    "Assembly/instructions/MOVZX - MOVSX - MOVSXD.md",
-    "Assembly/instructions/MOV.md",
-    "Assembly/instructions/LEA.md",
-    "Assembly/instructions/JMP.md",
-    "Assembly/instructions/IMUL and MUL.md",
-    "Assembly/instructions/CMP.md",
-    "Assembly/instructions/CALL.md",
-    "Assembly/instructions/ADD and SUB.md",
-    "Pasted image 20251118133445.png",
-    "Pasted image 20251118133221.png",
-    "zfiles/Pasted image 20251118133015.png",
-    "zfiles/Pasted image 20251118132931.png",
-    "zfiles/Pasted image 20251118132605.png",
-    "intel/Alignment padding.md",
-    "intel/Full registers map.md",
-    "intel/NASM x64 Assembly.pdf",
-    "intel/r-mX addressing.md",
+    "RISC v/instruction/sd  for RV64I.md",
+    "RISC v/instruction/mv.md",
+    "RISC v/instruction/ld for RV64I.md",
+    "RISC v/instruction/zNotes.md",
+    "RISC v/additional/words.md",
+    "RISC v/stack/general.md",
+    "RISC v/additional",
+    "RISC v/instruction/jalr.md",
+    "RISC v/stack",
+    "RISC v/Pseudo instruction/jr.md",
+    "RISC v/Pseudo instruction/ret.md",
+    "RISC v/registers/zNOTES.md",
+    "RISC v/registers/floating point registers GPRs.md",
+    "RISC v/instruction/All instruction.md",
+    "RISC v/instruction/addi.md",
     "intel/x86 Architecture Overview.pdf",
-    "intel/x86-x64 general purpose registers.md",
-    "intel/Architectures",
-    "Microsoft",
-    "Pasted image 20251116131456.png",
-    "Hex",
-    "Pasted image 20251114062301.png",
-    "zfiles/Pasted image 20251114055614.png",
-    "C language",
-    "intel/64bit",
-    "Computers",
-    "Computers/Registers",
-    "Assembly/instructions"
+    "intel/Full registers map.md",
+    "intel/Calling conventions.md",
+    "RISC v/registers/integer registers GPRs.md",
+    "RISC v/registers/hypervisor CSRs  ~ SPRs h-exention.md",
+    "RISC v/Pseudo instruction/li.md",
+    "RISC v/instruction/c.jr.md",
+    "RISC v/instruction/imm.md",
+    "RISC v/Pseudo instruction/NOP.md",
+    "RISC v/registers/debug CSRs ~ SPRs.md",
+    "RISC v/registers/machine level CSRs ~ SPRs m mode.md",
+    "RISC v/registers/supervisor level CSRs ~ SPRs s mode.md",
+    "RISC v/registers/user level CSRs ~ SPRs u mode.md",
+    "intel/Flags.md",
+    "RISC v/Pseudo instruction",
+    "zfiles/Pasted image 20251201200627.png",
+    "zfiles/Pasted image 20251119043956.png",
+    "RISC v/registers",
+    "RISC v/instruction",
+    "RISC v",
+    "zfiles/Pasted image 20251124053721.png",
+    "Manuals",
+    "zfiles/Pasted image 20251123052805.png",
+    "zfiles/Pasted image 20251123052712.png",
+    "zfiles/Pasted image 20251121075637.png",
+    "intel/NASM x64 Assembly.pdf",
+    "zfiles/Pasted image 20251121075429.png",
+    "zfiles/Pasted image 20251121063851.png",
+    "zfiles/Pasted image 20251120070914.png",
+    "zfiles/Pasted image 20251120070634.png",
+    "intel/Architectures"
   ]
 }
