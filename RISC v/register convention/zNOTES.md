@@ -1,0 +1,2 @@
+- `a0` is the register where return values are stored by ABI calling convention
+- `ra`(x1) register used for storing the return address (so the code can return back from where it came)

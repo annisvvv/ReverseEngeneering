@@ -1,1 +1,0 @@
-pseudo of `c.jr` that is `c.jr ra` that means `jalr x0, ra, 0` here `pc = ra + 0` and `rd = x0` the address after `jr/jallr` that will do nothing since its 0 and its a return value.

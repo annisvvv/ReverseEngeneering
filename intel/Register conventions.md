@@ -1,0 +1,9 @@
+- RAX store functions return values
+- RBX base pointer to the data section
+- RCX counter for string and loop operations
+- RDX I/O pointer
+- RSI source index pointer for string operations
+- RDI destination index pointer for string operations
+- RSP stack top pointer
+- RBP stack frame base pointer
+- RIP pointer to the next instruction to execute (instruction pointer)
