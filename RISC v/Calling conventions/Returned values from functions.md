@@ -1,0 +1,1 @@
+value returned from functions are returned in the `a0` register if its below or equal to 64bits or the `a0 and a1` registers if 128bits, with the `a0` being the least significant bits, and `a1` being the most significant one.

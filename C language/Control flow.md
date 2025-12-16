@@ -7,7 +7,7 @@ go to some where if a condition is met. like if statement, loops, switches.
 ## unconditional 
 always go somewhere like functions call, goto, exceptions, interrupts.
 
-- functions calls manifest themselves as call/ret in asm [[CALL]]
+- functions calls manifest themselves as call/ret in asm [[intel/instructions/CALL]]
 - goto manifests itself as jump in asm [[JMP]]
 
 goto example:
