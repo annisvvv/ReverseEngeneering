@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5691caa73b65c024",
+        "id": "36a91ef54b500a06",
         "type": "tabs",
         "children": [
           {
-            "id": "04ec479e80e333fa",
+            "id": "85bfc6764f36dde6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Debuggers/GNU project debugger (GDB)/Documentation.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Documentation"
             }
           }
         ]
@@ -162,10 +166,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "04ec479e80e333fa",
+  "active": "bdb15f3f5df00351",
   "lastOpenFiles": [
-    "OST2_LP_Vulns_Exploits.pdf",
+    "Debuggers",
+    "Debuggers/GNU project debugger (GDB)/Debugging flow.md",
     "System and OS internals/Roadmap.md",
+    "HL language",
+    "Computer architecture",
+    "OST2_LP_Vulns_Exploits.pdf",
     "System and OS internals/1- UEFI/firmware fundamentals/3- UEFI Unified Extensible Firmware Interface.md",
     "System and OS internals/1- UEFI/firmware fundamentals/2- BIOS Basic IO System.md",
     "System and OS internals/1- UEFI/firmware fundamentals/1- What is a firmware.md",
@@ -175,12 +183,11 @@
     "Instructions set/ARM",
     "Instructions set/x86-x64",
     "Instructions set",
-    "Instructions set/x86-x64/C language/Data types.md",
-    "Instructions set/x86-x64/C language/Control flow.md",
-    "Instructions set/x86-x64/C language/Bitwise operators.md",
-    "Instructions set/x86-x64/GNU project debugger (GDB)/Debugging flow.md",
-    "Instructions set/x86-x64/GNU project debugger (GDB)/Documentation.md",
-    "Instructions set/x86-x64/Hex/How to know if a hex is negative or positive.md",
+    "HL language/C language/Data types.md",
+    "HL language/C language/Control flow.md",
+    "HL language/C language/Bitwise operators.md",
+    "Debuggers/GNU project debugger (GDB)/Documentation.md",
+    "HL language/Hex/How to know if a hex is negative or positive.md",
     "Instructions set/RISC v/instruction/RV32/auipc.md",
     "Instructions set/RISC v/instruction/RV32/control flow/bltz.md",
     "Instructions set/RISC v/instruction/RV32/control flow/bgtz.md",
@@ -197,7 +204,6 @@
     "Instructions set/RISC v/instruction/RV32/control flow/bge.md",
     "Instructions set/RISC v/instruction/RV32/control flow/bne.md",
     "Instructions set/RISC v/instruction/RV32/control flow",
-    "Instructions set/RISC v/instruction/RV32/boolean",
     "zfiles/Pasted image 20251217122539.png",
     "zfiles/Pasted image 20251217122519.png",
     "zfiles/Pasted image 20251217122500.png",
@@ -207,7 +213,6 @@
     "zfiles/Pasted image 20251211141003.png",
     "zfiles/Pasted image 20251211135414.png",
     "zfiles/Pasted image 20251211135221.png",
-    "Instructions set/RISC v/Calling conventions",
     "zfiles/Pasted image 20251210053704.png"
   ]
 }
