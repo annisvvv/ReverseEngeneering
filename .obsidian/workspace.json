@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 287.5
   },
   "right": {
     "id": "a76b29b7854bd383",
@@ -166,7 +166,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "bdb15f3f5df00351",
+  "active": "df08d9b78dda1b0e",
   "lastOpenFiles": [
     "zfiles/Pasted image 20251220064124.png",
     "zfiles/Pasted image 20251220062813.png",

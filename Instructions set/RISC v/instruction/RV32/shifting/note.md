@@ -60,5 +60,5 @@ we shift by 24bits so using the "4-to-1" rule: 24 bits \ 4 = 6 Hex digits. that 
 
 ![[Pasted image 20251220062734.png]]
 
-# Note
+# Note with multiplication
 ![[Pasted image 20251220064124.png]]
