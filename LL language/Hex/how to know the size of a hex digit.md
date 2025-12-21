@@ -1,0 +1,1 @@
+every digit of a hex is 4 bits, so for a 32 bits hex is composed of 8 hex digits.

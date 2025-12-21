@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Instructions set/RISC v/instruction/RV32/shifting/note.md",
+                "file": "Debuggers/GNU project debugger (GDB)/Tools.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "note"
+              "title": "Tools"
             }
           }
         ]
@@ -168,6 +168,16 @@
   },
   "active": "df08d9b78dda1b0e",
   "lastOpenFiles": [
+    "Debuggers/GNU project debugger (GDB)/Debugging flow.md",
+    "Debuggers/GNU project debugger (GDB)/Documentation.md",
+    "LL language/C language/Bitwise operators.md",
+    "LL language/C language/Control flow.md",
+    "LL language/C language/Data types.md",
+    "LL language/C language/switch statement.md",
+    "LL language/Hex/How to know if a hex is negative or positive.md",
+    "LL language/Hex/how to know the size of a hex digit.md",
+    "Roadmap.pdf.pdf",
+    "Instructions set/RISC v/instruction/RV32/shifting/note.md",
     "zfiles/Pasted image 20251220064124.png",
     "zfiles/Pasted image 20251220062813.png",
     "zfiles/Pasted image 20251220062734.png",
@@ -177,12 +187,10 @@
     "zfiles/Pasted image 20251220062507.png",
     "Instructions set/RISC v/instruction/aaPseudo instruction/-.md",
     "Instructions set/RISC v/instruction/RV64/shifting/srliw.md",
-    "Instructions set/RISC v/instruction/RV32/shifting/note.md",
     "Instructions set/RISC v/instruction/RV64/shifting/sraiw.md",
     "zfiles/Pasted image 20251220061645.png",
     "zfiles/Pasted image 20251220061625.png",
     "zfiles/Pasted image 20251220061608.png",
-    "zfiles/Pasted image 20251220061520.png",
     "Instructions set/RISC v/instruction/RV64/shifting/slliw.md",
     "Instructions set/RISC v/instruction/RV64/shifting/sllw.md",
     "Instructions set/RISC v/instruction/RV64/shifting/srlw.md",
@@ -195,21 +203,13 @@
     "Instructions set/RISC v/instruction/RV32/shifting/srai.md",
     "Instructions set/RISC v/instruction/RV32/shifting/srli.md",
     "Instructions set/RISC v/instruction/RV32/shifting",
-    "Roadmap.pdf.pdf",
     "Computer architecture/Storage.md",
     "Computer architecture/Registers/Segment registers.md",
     "Computer architecture/Registers/Intro.md",
     "Computer architecture/Registers/Instruction pointer.md",
-    "Computer architecture/Registers/General purpose registers GRP.md",
-    "Computer architecture/Registers/Flags.md",
-    "Computer architecture/Registers/Control registers.md",
-    "Debuggers/GNU project debugger (GDB)/Documentation.md",
     "Debuggers",
-    "Debuggers/GNU project debugger (GDB)/Debugging flow.md",
-    "System and OS internals/Roadmap.md",
-    "HL language",
+    "LL language",
     "Computer architecture",
-    "System and OS internals/1- UEFI/firmware fundamentals/3- UEFI Unified Extensible Firmware Interface.md",
     "System and OS internals/1- UEFI/firmware fundamentals",
     "System and OS internals/1- UEFI",
     "System and OS internals",
