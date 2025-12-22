@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Instructions set/RISC v/instruction/Bigger picture.md",
+                "file": "Instructions set/RISC v/instruction/RV32/M extension/divu.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bigger picture"
+              "title": "divu"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "beqz",
+                "query": "auipc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 218.5
+    "width": 324.5
   },
   "right": {
     "id": "a76b29b7854bd383",
@@ -183,24 +183,34 @@
   },
   "active": "bdb15f3f5df00351",
   "lastOpenFiles": [
+    "Instructions set/RISC v/instruction/RV32/M extension/About binary multiplication.md",
+    "Instructions set/RISC v/instruction/RV32/M extension/128 bit * 128 bit multiplication.md",
+    "Instructions set/RISC v/instruction/RV32/M extension/mlhu.md",
+    "zfiles/Pasted image 20251222145831.png",
+    "Instructions set/RISC v/instruction/RV32/M extension/Pasted image 20251222141001.png",
+    "Instructions set/RISC v/instruction/RV32/auipc.md",
+    "zfiles/Pasted image 20251222140049.png",
+    "Instructions set/RISC v/instruction/RV32/M extension/remu.md",
+    "Instructions set/RISC v/instruction/RV64/M extension",
+    "zfiles/Pasted image 20251222132151.png",
+    "Instructions set/RISC v/instruction/RV32/M extension/divu.md",
+    "zfiles/Pasted image 20251222131739.png",
+    "Instructions set/RISC v/instruction/RV32/M extension/mul.md",
+    "zfiles/Pasted image 20251222131255.png",
+    "zfiles/Pasted image 20251222131103.png",
+    "zfiles/Pasted image 20251222130946.png",
+    "Instructions set/RISC v/instruction/Bigger picture.md",
+    "Instructions set/RISC v/instruction/RV32/M extension",
     "zfiles/Pasted image 20251221193950.png",
     "zfiles/Pasted image 20251221193914.png",
     "Instructions set/RISC v/instruction/RV32/special instru/ecall.md",
-    "Instructions set/RISC v/instruction/Bigger picture.md",
-    "zfiles/Pasted image 20251221193801.png",
     "Instructions set/RISC v/instruction/RV32/special instru/ebreak.md",
-    "zfiles/Pasted image 20251221193618.png",
     "Instructions set/RISC v/instruction/RV32/special instru/fence.md",
-    "zfiles/Pasted image 20251221193549.png",
     "Instructions set/RISC v/instruction/RV32/control flow/if else/slti.md",
     "Instructions set/RISC v/instruction/RV32/special instru",
     "Instructions set/RISC v/instruction/RV32/control flow/switch/sltu.md",
-    "zfiles/Pasted image 20251221192941.png",
     "Instructions set/RISC v/instruction/RV32/control flow/if else/slt.md",
-    "zfiles/Pasted image 20251221192934.png",
-    "zfiles/Pasted image 20251221192929.png",
     "Instructions set/RISC v/instruction/RV32/control flow/if else/sltiu.md",
-    "zfiles/Pasted image 20251221192923.png",
     "Instructions set/RISC v/instruction/RV32/control flow/if else/sgtz.md",
     "Instructions set/RISC v/instruction/RV32/control flow/switch/beqz.md",
     "Instructions set/RISC v/instruction/RV32/control flow/switch/snez.md",
@@ -211,23 +221,12 @@
     "Instructions set/RISC v/instruction/RV32/li.md",
     "Instructions set/RISC v/instruction/RV32/mv.md",
     "Instructions set/RISC v/instruction/RV32/NOP.md",
-    "Instructions set/RISC v/instruction/RV32/not.md",
-    "Instructions set/RISC v/instruction/RV32/ret.md",
     "Instructions set/RISC v/instruction/aaPseudo instruction/calling functions",
     "Instructions set/RISC v/instruction/RV32/calling functions",
     "Instructions set/RISC v/instruction/RV32/control flow/while",
     "Instructions set/RISC v/instruction/RV32/control flow/switch",
     "Instructions set/RISC v/instruction/RV32/control flow/if else",
-    "Instructions set/RISC v/instruction/RV64/subw.md",
-    "Instructions set/RISC v/instruction/RV32/shifting/slli.md",
-    "Instructions set/RISC v/instruction/RV64/shifting/lwu.md",
-    "Instructions set/RISC v/instruction/RV64/shifting/sllw.md",
-    "Instructions set/RISC v/instruction/RV64/shifting/slliw.md",
     "Roadmap.pdf.pdf",
-    "zfiles/Pasted image 20251220064124.png",
-    "zfiles/Pasted image 20251220062813.png",
-    "Instructions set/RISC v/instruction/RV64/shifting",
-    "Instructions set/RISC v/instruction/RV32/shifting",
-    "Debuggers"
+    "Instructions set/RISC v/instruction/RV64/shifting"
   ]
 }
