@@ -11,14 +11,24 @@
             "id": "8b616e2fa266c37b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Instructions set/RISC v/instruction/RV32/special instru/ebreak.md",
-                "mode": "source",
-                "source": false
+                "file": "Instructions set/x86-x64/intel/Manuals/325462-089-sdm-vol-1-2abcd-3abcd-4.pdf"
               },
-              "icon": "lucide-file",
-              "title": "ebreak"
+              "icon": "lucide-file-text",
+              "title": "325462-089-sdm-vol-1-2abcd-3abcd-4"
+            }
+          },
+          {
+            "id": "623933913f9e35bc",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Roadmap.pdf.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Roadmap.pdf"
             }
           }
         ]
@@ -78,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208.5
+    "width": 208.5,
+    "collapsed": true
   },
   "right": {
     "id": "a76b29b7854bd383",
@@ -168,28 +179,41 @@
   },
   "active": "8b616e2fa266c37b",
   "lastOpenFiles": [
-    "Instructions set/RISC v/instruction/RV64/zext.b.md",
-    "Instructions set/RISC v/instruction/RV64/calcul/subw.md",
-    "Instructions set/RISC v/instruction/RV64/sext.w.md",
-    "Instructions set/RISC v/instruction/RV32/calcul/sub.md",
+    "Instructions set/x86-x64/intel/Manuals/Intel.md",
+    "Instructions set/x86-x64/intel/Manuals/325462-089-sdm-vol-1-2abcd-3abcd-4.pdf",
+    "Instructions set/x86-x64/intel/Manuals/Unconfirmed 620860.crdownload",
+    "Instructions set/x86-x64/Microsoft/Calling conventions.md",
+    "Instructions set/x86-x64/Microsoft/links.md",
+    "Instructions set/x86-x64/Microsoft/Shadow space.md",
+    "Instructions set/x86-x64/intel/Manuals/x86 Architecture Overview.pdf",
+    "Instructions set/x86-x64/intel/x86-x64 general purpose registers.md",
+    "Instructions set/x86-x64/intel/Register conventions.md",
+    "Instructions set/x86-x64/intel/r-mX addressing.md",
+    "Instructions set/x86-x64/intel/intel vs AT&T.md",
+    "Instructions set/x86-x64/intel/Full registers map.md",
+    "Instructions set/x86-x64/intel/Flags.md",
+    "Instructions set/x86-x64/intel/CMOV instructions.md",
+    "Instructions set/x86-x64/intel/Calling conventions.md",
+    "Instructions set/x86-x64/intel/Alignment padding.md",
+    "Instructions set/x86-x64/intel/Manuals/NASM x64 Assembly.pdf",
+    "Instructions set/x86-x64/intel/Manuals/read intel opocode from manual.md",
+    "Instructions set/x86-x64/intel/instructions/TEST.md",
+    "Instructions set/x86-x64/intel/instructions/SHL - SHR & SAR - SAL.md",
+    "Instructions set/x86-x64/intel/instructions/REP STOS - REP MOVS.md",
+    "Instructions set/x86-x64/intel/instructions/LEA.md",
+    "Instructions set/x86-x64/intel/instructions/JCC.md",
+    "Instructions set/x86-x64/intel/instructions/JMP.md",
+    "Instructions set/x86-x64/intel/instructions/INC - DEC.md",
+    "Instructions set/x86-x64/intel/instructions/IMUL and MUL.md",
+    "Instructions set/x86-x64/intel/instructions/DIV - IDIV.md",
+    "Instructions set/x86-x64/intel/instructions/CMP.md",
+    "Instructions set/x86-x64/intel/instructions/CDQ.md",
+    "Roadmap.pdf.pdf",
     "Instructions set/RISC v/instruction/RV64/load and store",
     "Instructions set/RISC v/instruction/RV64/calcul",
-    "Instructions set/RISC v/instruction/RV32/calcul/auipc.md",
-    "Instructions set/RISC v/instruction/RV32/calcul/add.md",
-    "Instructions set/RISC v/instruction/RV32/calcul/addi.md",
     "Instructions set/RISC v/instruction/RV32/calcul",
-    "Instructions set/RISC v/instruction/RV32/move and store/sw.md",
-    "Instructions set/RISC v/instruction/RV32/move and store/sh.md",
-    "Instructions set/RISC v/instruction/RV32/move and store/mv.md",
     "Instructions set/RISC v/instruction/RV32/move and store",
-    "Instructions set/RISC v/instruction/RV32/move and store/sb.md",
-    "Instructions set/RISC v/instruction/RV32/imm.md",
-    "Instructions set/RISC v/instruction/RV32/movement/jr.md",
-    "Instructions set/RISC v/instruction/RV32/loading instru/lb.md",
     "Instructions set/RISC v/instruction/RV32/movement",
-    "LL language/asembly/inline/GCC gas/basic form.md",
-    "Instructions set/RISC v/instruction/RV32/loading instru",
-    "LL language/asembly/inline/GCC gas/Writing bytes to get asm.md",
     "zfiles/Pasted image 20251223131843.png",
     "zfiles/Pasted image 20251223131729.png",
     "zfiles/Pasted image 20251223131421.png",
@@ -197,22 +221,8 @@
     "zfiles/Pasted image 20251223130744.png",
     "zfiles/Pasted image 20251223130225.png",
     "zfiles/Pasted image 20251223130025.png",
-    "LL language/asembly/inline/GCC gas",
-    "LL language/asembly/inline",
-    "LL language/asembly/standalone",
-    "LL language/asembly",
-    "Instructions set/RISC v/manuals/note.md",
     "zfiles/Pasted image 20251223124150.png",
     "zfiles/Pasted image 20251223124036.png",
-    "zfiles/Pasted image 20251223123850.png",
-    "Instructions set/RISC v/instruction/RV32/M extension/divu.md",
-    "Instructions set/RISC v/instruction/RV32/M extension/mulhsu.md",
-    "Instructions set/RISC v/instruction/RV32/M extension/mulh.md",
-    "Instructions set/RISC v/instruction/RV64/M extension/remw.md",
-    "Instructions set/RISC v/instruction/RV32/M extension/rem.md",
-    "Instructions set/RISC v/instruction/RV64/M extension/divw.md",
-    "Instructions set/RISC v/instruction/RV64/M extension/divuw.md",
-    "Instructions set/RISC v/instruction/RV32/M extension/div.md",
-    "Instructions set/RISC v/instruction/RV64/M extension/mulw.md"
+    "zfiles/Pasted image 20251223123850.png"
   ]
 }
