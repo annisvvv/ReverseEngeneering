@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Debuggers/GNU project debugger (GDB)/gdb Misc.md",
+                "file": "Debuggers/WinDbg/examine and modify registers and memory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "gdb Misc"
+              "title": "examine and modify registers and memory"
             }
           }
         ]
@@ -168,8 +168,13 @@
   },
   "active": "b1a628786a49eead",
   "lastOpenFiles": [
-    "Debuggers/GNU project debugger (GDB)/Stepping Through Assembly.md",
+    "Debuggers/WinDbg/hardware vs software breakpoints.md",
+    "Debuggers/WinDbg/examine and modify registers and memory.md",
+    "Debuggers/WinDbg/Starting a program and breaking at its entry point.md",
+    "Debuggers/WinDbg/Loading a binary.md",
     "Debuggers/GNU project debugger (GDB)/gdb Misc.md",
+    "Debuggers/WinDbg",
+    "Debuggers/GNU project debugger (GDB)/Stepping Through Assembly.md",
     "Debuggers/GNU project debugger (GDB)/Examining and Modifying Registers and Memory.md",
     "Debuggers/GNU project debugger (GDB)/Untitled",
     "Debuggers/GNU project debugger (GDB)/Note.md",
@@ -195,15 +200,10 @@
     "Instructions set/x86-x64/intel/Full registers map.md",
     "Instructions set/x86-x64/intel/Flags.md",
     "Instructions set/x86-x64/intel/CMOV instructions.md",
-    "Instructions set/x86-x64/intel/Calling conventions.md",
-    "Instructions set/x86-x64/intel/Alignment padding.md",
     "Instructions set/x86-x64/intel/Manuals/NASM x64 Assembly.pdf",
-    "Instructions set/x86-x64/intel/Manuals/read intel opocode from manual.md",
-    "Instructions set/x86-x64/intel/instructions/TEST.md",
     "Instructions set/RISC v/instruction/RV64/load and store",
     "Instructions set/RISC v/instruction/RV64/calcul",
     "Instructions set/RISC v/instruction/RV32/calcul",
-    "Instructions set/RISC v/instruction/RV32/move and store",
     "zfiles/Pasted image 20251223131843.png",
     "zfiles/Pasted image 20251223131729.png",
     "zfiles/Pasted image 20251223131421.png",
