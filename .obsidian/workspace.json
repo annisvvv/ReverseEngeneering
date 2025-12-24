@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Instructions set/RISC v/Calling conventions/Pass value to functions.md",
+                "file": "Debuggers/GNU project debugger (GDB)/gdb Misc.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pass value to functions"
+              "title": "gdb Misc"
             }
           }
         ]
@@ -168,8 +168,16 @@
   },
   "active": "b1a628786a49eead",
   "lastOpenFiles": [
-    "Instructions set/RISC v/Calling conventions/note.md",
+    "Debuggers/GNU project debugger (GDB)/Stepping Through Assembly.md",
+    "Debuggers/GNU project debugger (GDB)/gdb Misc.md",
+    "Debuggers/GNU project debugger (GDB)/Examining and Modifying Registers and Memory.md",
+    "Debuggers/GNU project debugger (GDB)/Untitled",
+    "Debuggers/GNU project debugger (GDB)/Note.md",
+    "Debuggers/GNU project debugger (GDB)/Working with Breakpoints in Source & Assembly Debugging.md",
+    "Debuggers/GNU project debugger (GDB)/Documentation.md",
+    "Debuggers/GNU project debugger (GDB)/Debugging flow.md",
     "Instructions set/RISC v/Calling conventions/Pass value to functions.md",
+    "Instructions set/RISC v/Calling conventions/note.md",
     "Instructions set/RISC v/Calling conventions/Returned values from functions.md",
     "Instructions set/RISC v/Calling conventions/Registers conventions.md",
     "Roadmap.pdf.pdf",
@@ -192,18 +200,10 @@
     "Instructions set/x86-x64/intel/Manuals/NASM x64 Assembly.pdf",
     "Instructions set/x86-x64/intel/Manuals/read intel opocode from manual.md",
     "Instructions set/x86-x64/intel/instructions/TEST.md",
-    "Instructions set/x86-x64/intel/instructions/SHL - SHR & SAR - SAL.md",
-    "Instructions set/x86-x64/intel/instructions/REP STOS - REP MOVS.md",
-    "Instructions set/x86-x64/intel/instructions/LEA.md",
-    "Instructions set/x86-x64/intel/instructions/JCC.md",
-    "Instructions set/x86-x64/intel/instructions/JMP.md",
-    "Instructions set/x86-x64/intel/instructions/INC - DEC.md",
-    "Instructions set/x86-x64/intel/instructions/IMUL and MUL.md",
     "Instructions set/RISC v/instruction/RV64/load and store",
     "Instructions set/RISC v/instruction/RV64/calcul",
     "Instructions set/RISC v/instruction/RV32/calcul",
     "Instructions set/RISC v/instruction/RV32/move and store",
-    "Instructions set/RISC v/instruction/RV32/movement",
     "zfiles/Pasted image 20251223131843.png",
     "zfiles/Pasted image 20251223131729.png",
     "zfiles/Pasted image 20251223131421.png",
